@@ -1,0 +1,7 @@
+[core]
+    editor = vim
+[user]
+    name = Michal Šoltis
+    email = soltis.miso@gmail.com
+[init]
+    defaultBranch = main
