@@ -1,0 +1,9 @@
+[core]
+        editor = vim
+[user]
+        name = Michal Šoltis
+        email = soltis.miso@gmail.com
+[init]
+        defaultBranch = main
+[alias]
+    l = log --pretty=format:"%C(yellow)%h\\ %ad\\ %C(reset)%s\\%C(red)%d" --decorate --date=relative
