@@ -1,0 +1,1 @@
+PS1=$'\e[32m\e[1m[ misko ] \e[35m\e[1m\w\e[0m\n$ '
